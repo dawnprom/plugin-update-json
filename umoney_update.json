@@ -1,0 +1,7 @@
+{
+    "version": "251220",
+    "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v251220/endstone_umoney-251220-py2.py3-none-any.whl",
+    "update_content": "แก้คำอธิบายคำสั่ง เพิ่มการรองรับ EasyCheckUpdate และลบโค้ดสีที่ไม่ต้องการออก โดยคงเฉพาะสีแดงกับสีเขียวไว้",
+    "author": "LuclferXl",
+    "update_time": "2026-03-28 00:00:00"
+}
